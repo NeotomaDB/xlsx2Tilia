@@ -22,7 +22,7 @@ Excel Template Contents (`inputTemplate.xlsx`):
 | Worksheet | Usage |
 | ---| ---|
 | mainTable | database to be converted to Tilia |
-| contacts  | collector, researcher, and processor contact information and affiliation|
+| contacts  | collector, investigator, and processor contact information and affiliation|
 | xlsFormat | Tilia format parameters and flags |
 | wChem     | water chemistry Tilia template |
 | ostracode | ostracode Tilia template and complete species list |

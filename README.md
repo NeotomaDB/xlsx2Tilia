@@ -3,7 +3,7 @@
 
 # xlsx2Tilia
 
-This python script and associated Excel template is developed to generate XML based Tilia files (https://www.tiliait.com) for ostracode paleontological data sets.  This tool was developed to facilitate the review and upload of large ostracode datasets to Neotoma (https://www.neotomadb.org).  An Excel template allows for easy editing of metadata pertaining to all records in a given dataset, enables visualization of Tilia tables and fields, and holds the database to be processed.
+This python script and associated Excel template is developed to generate XML based Tilia files (https://www.neotomadb.org/apps/tilia) for ostracode paleontological data sets.  This tool was developed to facilitate the review and upload of large ostracode datasets to Neotoma (https://www.neotomadb.org).  An Excel template allows for easy editing of metadata pertaining to all records in a given dataset, enables visualization of Tilia tables and fields, and holds the database to be processed.
 
 The use of the Tilia program is part of the Neotoma database curation procedure for new datasets.  For a database to be reviewed, each database record is converted to a separate Tilia file.  Tilia allows for the individual manual review of a database record by a Neotoma database steward and facilitates several automated data validation procedures.  If approved, the database record is uploaded and incorporated into Neotoma.  This procedure is repeated for each database record.
 

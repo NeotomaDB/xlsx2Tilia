@@ -1,5 +1,11 @@
+<!-- badges: start -->
+
+[![lifecycle](https://img.shields.io/badge/lifecycle-stable-orange.svg)](https://www.tidyverse.org/lifecycle/#stable)
+
 ![DUB](https://img.shields.io/dub/l/vibe-d.svg)
 [![NSF-1550890](https://img.shields.io/badge/NSF-1550890-blue.svg)](https://nsf.gov/awardsearch/showAward?AWD_ID=1550890)
+
+<!-- badges: end -->
 
 # xlsx2Tilia
 
